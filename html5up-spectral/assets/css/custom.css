@@ -4,7 +4,12 @@
   border: 3px solid white;
 }
 
+#hello-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
 #hello {
-  /* max-width: 500px;
-  text-align: center; */
+  max-width: 500px;
+  text-align: center;
 }
