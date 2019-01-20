@@ -13,3 +13,18 @@
   max-width: 500px;
   text-align: center;
 }
+
+.technologies {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.icon-container {
+  overflow: auto;
+  padding: 5px;
+}
+
+.tech-icon {
+  width: 150px;
+  height: 150px;
+}
