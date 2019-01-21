@@ -12,6 +12,7 @@
 #hello {
   max-width: 500px;
   text-align: center;
+  color: white;
 }
 
 .technologies {
@@ -66,10 +67,20 @@
 
 .prof-link {
   font-size: 50px;
+  color:  #9c9c9c;
+}
+
+.prof-link:hover {
+  color:  white;
 }
 
 .prof-link2 {
   font-size: 22px;
+}
+
+.prof-link2:hover {
+  font-size: 22px;
+  font-weight: 600;
 }
 
 .who-links {
