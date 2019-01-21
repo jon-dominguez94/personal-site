@@ -22,9 +22,16 @@
 .icon-container {
   overflow: auto;
   padding: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .tech-icon {
   width: 150px;
   height: 150px;
+}
+
+.tech-name {
+  padding: 3px 0;
 }
