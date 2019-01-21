@@ -43,7 +43,7 @@
 }
 
 #four {
-  padding-top: 20px;
+  padding-top: 30px;
 }
 
 .bg-container {
@@ -56,4 +56,10 @@
   flex: 1;
   font-size: 14px;
   margin: 0 10px;
+}
+
+.school {
+  margin: 0;
+  font-weight: 700;
+  font-size: 16px;
 }
