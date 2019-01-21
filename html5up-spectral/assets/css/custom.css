@@ -18,6 +18,7 @@
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  padding: 0;
 }
 .icon-container {
   overflow: auto;
@@ -25,6 +26,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin: 0 20px;
 }
 
 .tech-icon {
@@ -34,4 +36,6 @@
 
 .tech-name {
   padding: 3px 0;
+  font-weight: 600;
+  letter-spacing: 3px;
 }
