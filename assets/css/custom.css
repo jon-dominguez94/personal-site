@@ -75,3 +75,18 @@
 .who-links {
   list-style-type: none;
 }
+
+.dog-pic {
+  width: 200px;
+  height: auto;
+}
+
+@media screen and (max-width: 736px) {
+
+  .bg-container {
+    flex-direction: column;
+    justify-content:  flex-start;
+    align-items: center;
+  }
+
+}
