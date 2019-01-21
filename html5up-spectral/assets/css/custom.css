@@ -41,3 +41,19 @@
   font-weight: 600;
   letter-spacing: 3px;
 }
+
+#four {
+  padding-top: 20px;
+}
+
+.bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.bg-section {
+  flex: 1;
+  font-size: 14px;
+  margin: 0 10px;
+}
