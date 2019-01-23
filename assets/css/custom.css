@@ -110,6 +110,15 @@
   color: white;
 }
 
+#download-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+#dl-resume {
+  padding: 0;
+}
+
 @media screen and (max-width: 736px) {
 
   .bg-container {
